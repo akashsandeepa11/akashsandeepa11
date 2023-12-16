@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **akashsandeepa11@gmail.com**
 
-- ⚡ Fun fact **I think I am funny.**
 
 
 
