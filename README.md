@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash sandeepa</h1>
-<h3 align="center">A passionate frontend Mobile Application developer from Sri Lanka</h3>
+<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
